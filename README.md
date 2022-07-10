@@ -4,6 +4,7 @@
 
 # Pré-requisitos
 
+
 Implementar apenas a API (Backend)
 Versão Java +8 (caso seja Java 8, verificar compatibilidade da sua IDE)
 Versão Spring Boot >= 2.4
