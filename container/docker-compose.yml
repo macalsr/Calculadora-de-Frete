@@ -1,0 +1,9 @@
+version: '2'
+services:
+  postgres:
+    image: postgres:11.5
+    environment:
+      - POSTGRES_USER=sigaBem
+      - POSTGRES_PASSWORD=sigaBem
+    ports:
+      - "5432:5432"

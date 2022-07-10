@@ -1,0 +1,22 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: sigaBem
+    password: sigaBem
+  datasource.driverClassName: org.postgresql.Driver
+  liquibase:
+    change-log: classpath:config/liquibase/master.xml
+
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  sigaBem:
+    api:
+      project:
+        version: 1.0
+server:
+  port: 8080

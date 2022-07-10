@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog https://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+
+    <changeSet id="20220708" author="maria.ribeiro">
+        <createTable tableName="pacote">
+            <column name="id" type="int" autoIncrement="true" remarks="identificador tabela pacote">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="peso" type="int" remarks="peso do pacote">
+                <constraints nullable="false"/>
+            </column>
+            <column name="cep_origem" type="varchar(10)" remarks="cep origem">
+                <constraints nullable="false"/>
+            </column>
+            <column name="cep_destino" type="varchar(10)" remarks="cep destino">
+                <constraints nullable="false"/>
+            </column>
+            <column name="nome_destinatario" type="varchar(100)" remarks="nome destinatario">
+                <constraints nullable="false"/>
+            </column>
+            <column name="vl_total_frete" type="float" remarks="valor total do frete">
+            </column>
+            <column name="data_prevista_entrega" type="varchar(50)" remarks="data prevista da entrega">
+            </column>
+            <column name="data_consulta" type="varchar(50)" remarks="data da consulta">
+            </column>
+        </createTable>
+        <createSequence sequenceName="hibernate_sequence" startValue="1" incrementBy="1"/>
+    </changeSet>
+
+</databaseChangeLog>
