@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8eb974-44a7-4088-9691-66b6d6f57902" name="Changes" comment="api CalculadoraDeFreteApplication">
-      <change afterPath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/converter/PacoteDTOConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/service/dto/PacoteDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/service/dto/PacoteVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculadora-de-Frete/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora-de-Frete/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/service/FreteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/service/FreteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/service/impl/FreteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/service/impl/FreteServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/web/rest/FreteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora-de-Frete/src/main/java/com/sigabem/calculadoradefrete/web/rest/FreteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculadora-de-Frete/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadora-de-Frete" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora-de-Frete" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/calculadora-de-Frete" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -35,13 +29,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/maria/tinnova-test/tinnova-spa/tinnova",
+    "last_opened_file_path": "/home/maria/JavaTest/calculadora-de-Frete",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/calculadora-de-Frete" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +52,7 @@
       <workItem from="1657462752638" duration="91000" />
       <workItem from="1657464325839" duration="159000" />
       <workItem from="1657476062044" duration="1042000" />
+      <workItem from="1657485233055" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="api CalculadoraDeFreteApplication">
       <created>1657476072996</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657476121999</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="api CalculadoraDeFreteApplication">
+      <created>1657485237409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657485237409</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
