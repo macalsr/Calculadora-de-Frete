@@ -23,6 +23,11 @@ Atualize as dependencias e rodar o liquibase execute o comando:
 ```
 mvn clean install
 ```
+
+Para acessar o swagger basta rodar a aplicação e acessar ao endereço:
+```
+localhost:8080/swagger-ui.html
+```
 Suba o back end com o spring boot em sua IDE de preferencia.
 
 ## 🍜 Licença
