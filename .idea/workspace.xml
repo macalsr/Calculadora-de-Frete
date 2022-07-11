@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8eb974-44a7-4088-9691-66b6d6f57902" name="Changes" comment="api CalculadoraDeFreteApplication" />
+    <list default="true" id="4f8eb974-44a7-4088-9691-66b6d6f57902" name="Changes" comment="api CalculadoraDeFreteApplication SwaggerConfig">
+      <change beforePath="$PROJECT_DIR$/.idea/JavaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sigabem/calculadoradefrete/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sigabem/calculadoradefrete/config/SwaggerConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +19,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2BkvA5PYsOesHiMGkXGOAu81DHy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,18 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/maria/JavaTest&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/maria/JavaTest",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "5e58d71fbd6d17577aaab8711264a813"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/calculadora-de-Frete" />
@@ -53,6 +82,9 @@
       <workItem from="1657476062044" duration="1042000" />
       <workItem from="1657485233055" duration="324000" />
       <workItem from="1657485566939" duration="167000" />
+      <workItem from="1657485779348" duration="67000" />
+      <workItem from="1657538162046" duration="21000" />
+      <workItem from="1657538408150" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="api CalculadoraDeFreteApplication">
       <created>1657476072996</created>
@@ -110,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657485666710</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="api CalculadoraDeFreteApplication">
+      <created>1657485831065</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657485831065</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="api CalculadoraDeFreteApplication" />
-    <option name="LAST_COMMIT_MESSAGE" value="api CalculadoraDeFreteApplication" />
+    <MESSAGE value="api CalculadoraDeFreteApplication SwaggerConfig" />
+    <option name="LAST_COMMIT_MESSAGE" value="api CalculadoraDeFreteApplication SwaggerConfig" />
   </component>
 </project>

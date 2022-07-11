@@ -28,7 +28,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
         return new ApiInfoBuilder().title("API Calculadora de Frete") //
                 .description("Calculadora de frete API com uso da api https://viacep.com.br/") //
                 .termsOfServiceUrl("Terms of Service") //
-                .contact(new Contact("Vector", "https://github.com/macalsr/JavaTest",
+                .contact(new Contact("Maria Carolina Santana Ribeiro", "https://github.com/macalsr/JavaTest",
                         "mmariasribeiro@gmail.com"))
                 .license("License of API").licenseUrl("API license URL").build();
     }
