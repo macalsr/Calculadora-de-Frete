@@ -9,7 +9,7 @@ Antes de começar, verifique se você possui instalado em sua maquina as seguint
 * Java 11
 * Maven
 
-## 🚀 Instalando Tinnova-test
+## 🚀 Instalando
 
 Para instalar o projeto, siga estas etapas:
 
