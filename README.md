@@ -1,4 +1,4 @@
-# Teste de seleção para vaga de Java
+# Teste Java
 
 ## Faça um fork desse projeto e siga as instruções a seguir utilizando esse projeto.
 
